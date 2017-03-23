@@ -1,6 +1,6 @@
 /*******************************************
   一个个人小项目，配套APP下载以及相关教程见
-  http://www.arduino.cn/thread-43086-1-1.html
+  http://www.arduino.cn/thread-43090-1-1.html
 *******************************************/
 #include <CtrlApp.h>
 
